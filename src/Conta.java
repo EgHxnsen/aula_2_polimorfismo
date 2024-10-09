@@ -1,8 +1,8 @@
 public class Conta {
 
-    protected String agencia;
-    protected String Numero;
-    protected float saldo;
+    private String agencia;
+    private String Numero;
+    private float saldo;
 
     public String getAgencia() {
         return agencia;
